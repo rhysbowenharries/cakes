@@ -3,7 +3,7 @@ In the project directory, you please run:
 ### `json-server --watch server/db.json`
 
 to begin the json server needed for runnig the app.
-Open [http://localhost:5000] to view it in the browser.
+Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
 then:
 
