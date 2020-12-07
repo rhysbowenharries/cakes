@@ -1,0 +1,25 @@
+{
+  "cakes": [
+    {
+      "id": 1,
+      "name": "Battenberg",
+      "comment": "checkerd amazingness",
+      "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/classic-battenberg-4582b44.jpg?quality=90&webp=true&resize=300,272",
+      "yumFactor": 4
+    },
+    {
+      "id": 2,
+      "name": "Jaffa Cake",
+      "comment": "I am a cake too you know!",
+      "imageUrl": "https://i.insider.com/59ca35e82488496a2617e285?width=300&format=jpeg&auto=webp",
+      "yumFactor": 2
+    },
+    {
+      "name": "Carrot Cake",
+      "comment": "Moist and Spicy",
+      "imageUrl": "https://charlotteslivelykitchen.com/wp-content/uploads/2019/11/Carrot-Cake.jpg",
+      "yumFactor": "5",
+      "id": 4
+    }
+  ]
+}
